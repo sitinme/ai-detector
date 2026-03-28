@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Originality.ai",
+    "slug": "originality",
+    "url": "https://originality.ai/?ref=aiwritingcheck",
+    "description": "The most accurate AI content detector with plagiarism checking. Trusted by publishers and content teams.",
+    "rating": 4.8,
+    "price": "From $14.95/mo (pay-as-you-go available)",
+    "features": ["99% AI detection accuracy", "Plagiarism checker included", "Team collaboration", "API access", "Chrome extension"]
+  },
+  {
+    "name": "GPTZero",
+    "slug": "gptzero",
+    "url": "https://gptzero.me/?ref=aiwritingcheck",
+    "description": "AI detector built for educators. Integrates with learning management systems and provides detailed writing reports.",
+    "rating": 4.6,
+    "price": "Free (5,000 chars), Pro from $10/mo",
+    "features": ["Built for education", "LMS integration", "Batch file upload", "Writing process analysis", "Detailed reports"]
+  },
+  {
+    "name": "Copyleaks",
+    "slug": "copyleaks",
+    "url": "https://copyleaks.com/?ref=aiwritingcheck",
+    "description": "Enterprise-grade AI and plagiarism detection. Supports 30+ languages with military-grade security.",
+    "rating": 4.5,
+    "price": "From $9.99/mo",
+    "features": ["30+ languages", "LMS plugins", "API access", "Source code detection", "GDPR compliant"]
+  },
+  {
+    "name": "Grammarly",
+    "slug": "grammarly",
+    "url": "https://grammarly.com/?ref=aiwritingcheck",
+    "description": "AI-powered writing assistant with grammar, tone, and clarity suggestions. Now includes AI detection features.",
+    "rating": 4.7,
+    "price": "Free plan available, Premium from $12/mo",
+    "features": ["Grammar & spelling", "Tone detection", "Plagiarism checker", "AI writing assistance", "Browser extension"]
+  }
+]
