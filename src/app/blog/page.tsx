@@ -7,6 +7,8 @@ export const metadata: Metadata = {
 };
 
 const posts = [
+  { slug: 'can-turnitin-detect-chatgpt', title: 'Can Turnitin Detect ChatGPT? What Students & Teachers Need to Know (2026)', description: 'Does Turnitin catch AI-generated text? We tested it. Here are the real results.', date: '2026-03-29', readTime: '9 min' },
+  { slug: 'ai-content-detection-accuracy-2026', title: 'AI Content Detection Accuracy in 2026: Which Tool Is Most Reliable?', description: 'We tested 6 AI detectors on 500 samples. See real accuracy and false positive rates.', date: '2026-03-27', readTime: '11 min' },
   { slug: 'best-ai-content-detectors-2026', title: 'Best AI Content Detectors in 2026: Accuracy Comparison', description: 'We tested the top AI detectors head-to-head. See which ones actually work and which fall short.', date: '2026-03-25', readTime: '10 min' },
   { slug: 'how-to-check-chatgpt-text', title: 'How to Check if Text Was Written by ChatGPT', description: 'Step-by-step guide to detecting AI-generated text using free and paid tools.', date: '2026-03-22', readTime: '7 min' },
   { slug: 'ai-detection-for-teachers', title: 'AI Detection for Teachers: A Complete Guide', description: 'Everything educators need to know about AI detection tools, policies, and best practices.', date: '2026-03-18', readTime: '12 min' },

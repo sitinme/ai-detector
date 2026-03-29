@@ -3,6 +3,7 @@ import { Inter } from 'next/font/google';
 import './globals.css';
 import Header from '@/components/layout/Header';
 import Footer from '@/components/layout/Footer';
+import GoogleAnalytics from '@/components/analytics/GoogleAnalytics';
 
 const inter = Inter({ subsets: ['latin'] });
 
@@ -32,6 +33,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         )}
       </head>
       <body className={`${inter.className} bg-white text-gray-900 antialiased`}>
+        <GoogleAnalytics />
         <Header />
         <main className="min-h-screen">{children}</main>
         <Footer />
